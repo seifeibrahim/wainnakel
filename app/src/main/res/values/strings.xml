@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">وين نأكل ؟</string>
+    //Google Map Key
+    <string name="google_maps_key">AIzaSyDYN4o68p4PHKCB0MeyzAemhns0eTq7C3Y</string>
+
+    <string name="connectionerror">خطأ في الإتصال</string>
+    <string name="suggest">اقترح</string>
+
+</resources>
